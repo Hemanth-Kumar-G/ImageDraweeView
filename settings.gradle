@@ -1,0 +1,3 @@
+include ':ImageDraweeView'
+include ':app'
+rootProject.name = "ImageDraweeView"
